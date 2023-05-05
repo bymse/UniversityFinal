@@ -1,0 +1,5 @@
+*.wasm
+node_modules
+cmake-build-*
+build
+*results.csv
